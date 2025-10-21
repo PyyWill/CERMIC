@@ -5,14 +5,12 @@
 <h1 style="text-align: center;">Wonder Wins Ways: Curiosity-Driven Exploration through Multi-Agent Contextual Calibration</h1>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.20648-b31b1b.svg)](https://arxiv.org/abs/2509.20648)
-[![Code](https://img.shields.io/badge/code-Coming%20Soon-orange)](https://github.com/your-repo/CERMIC)
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![Supports BenchMARL](https://img.shields.io/static/v1?label=supports&message=BenchMARL&color=informational&link=https://github.com/facebookresearch/BenchMARL)](https://github.com/facebookresearch/BenchMARL)
 
+> **🚀 Code and implementation details will be released soon! Stay tuned for updates!**
+
 ## 📋 TODO
-
-- ✅ Completed
-
 
 - 🔄 In Progress
 1. Release complete code repository
@@ -39,8 +37,6 @@
 - **Exploration Stability**: Effectively dampens exploration instability often plaguing vanilla novelty-seeking agents through contextual calibration
 - **Lightweight Integration**: Delivered as a lightweight, readily integrable module that demonstrates consistent gains over strong baselines across standard benchmarks under sparse rewards
 - **State-of-the-Art Performance**: Significantly outperforms SoTA algorithms in sparse-reward environments
-
-> **Note**: Code and implementation details will be released soon. Stay tuned for updates!
 
 ## 📚 Citation
 
